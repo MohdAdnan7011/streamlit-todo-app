@@ -5,10 +5,8 @@ ProducTODO is a modern, feature-rich to-do list application built with Python an
 
 This project demonstrates proficiency in Python, UI development with Streamlit, and database management with SQLite.
 
-➡️ View Live Demo (Replace the link above with your actual deployed Streamlit URL after deploying!)
+➡️ View Live Demo (https://app-todo-app-ngaagweyrhxnlecpey8t9i.streamlit.app/)
 
-Application Screenshot
-(Note: It's highly recommended to take your own screenshot and replace the link above. You can upload your image to GitHub or an image hosting site like Imgur.)
 
 ✨ Features
 This application goes beyond a simple to-do list and includes several productivity-enhancing features:
@@ -99,16 +97,6 @@ streamlit run todo_app.py
 
 The application will open in a new tab in your default web browser.
 
-☁️ Deployment
-This application is ready for deployment on Streamlit Community Cloud.
-
-Push the project code (including todo_app.py and requirements.txt) to a public GitHub repository.
-
-Sign up for Streamlit Community Cloud using your GitHub account.
-
-Click "New app" and select the repository.
-
-Ensure the main file path is set to todo_app.py and click "Deploy!".
 
 🌟 Future Improvements
 User Authentication: Add user accounts to allow multiple people to use the app with their own private to-do lists.
